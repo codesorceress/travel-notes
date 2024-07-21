@@ -25,4 +25,4 @@ Performed file structure according to BEM methodology.
 - Nested File Structure
 - BEM Methodology
 
-[GitHub Pages]()
+[GitHub Pages](https://codesorceress.github.io/travel-notes/)
